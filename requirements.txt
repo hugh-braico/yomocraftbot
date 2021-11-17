@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+discord-components
+boto3
+mcrcon
